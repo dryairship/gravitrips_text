@@ -6,7 +6,9 @@ game = [['.' for i in range(0, 7)] for i in range(0, 6)]
 
 
 def printGame():
+	# To clear screen every time the game is printed.
     os.system('cls' if os.name == 'nt' else 'clear')
+
     for j in range(0, 7):
         print(j+1),
     print ''
