@@ -3,7 +3,7 @@ A text-based Connect 4 game. The first player to form a horizontal/vertical/diag
 
 ## Syntax
 - **Single Player Game**  
-```gravitrips.py -p1````
+```gravitrips.py -p1```
 - **Two Player Game**  
 ```gravitrips.py -p2```
 
